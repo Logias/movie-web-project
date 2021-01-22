@@ -1,7 +1,7 @@
 const APIUrl =
-  "https://api.themoviedb.org/3/movie/popular?api_key=1b9ed23ce1e10dc7db6e6df9d3a98fbd&language=en-US&page=1";
+  "https://api.themoviedb.org/3/movie/popular?api_key={API_KEY}&language=en-US&page=1";
 const SEARCHPATH_Url =
-  "https://api.themoviedb.org/3/search/movie?api_key=1b9ed23ce1e10dc7db6e6df9d3a98fbd&language=en-US";
+  "https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&language=en-US";
 
 const IMGPATH = "https://image.tmdb.org/t/p/w500/";
 
